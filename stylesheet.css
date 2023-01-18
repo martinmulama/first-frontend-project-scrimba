@@ -29,6 +29,11 @@ button {
     font-size: larger;
     font-weight: bold;
 }
+#del-el{
+    background-color: whitesmoke;
+    color: rgba(0, 128, 0, 0.788);
+
+}
 
 ul {
     text-decoration: none;
